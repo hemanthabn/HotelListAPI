@@ -1,0 +1,6 @@
+@HotelListAPI.NET5_HostAddress = http://localhost:5047
+
+GET {{HotelListAPI.NET5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
